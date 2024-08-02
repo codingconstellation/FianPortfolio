@@ -12,4 +12,4 @@
 
 [Family Tree-prolog](Assets/FamilyTree.pl)
 
-[Login Interface](assets/logininterface/index.html)
+[Login Interface](assets/logininterface/index.html) [View login code](assets/logininterface)
